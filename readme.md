@@ -3,7 +3,7 @@
 ## Total sheet columns description
  
 
-| column name  | desc                                                               |
+| column name  |description                                                                         |
 | ---          | ---                                                                |
 | project      | the open source project name                                       |
 | id           | the pull request number of each project                            |
